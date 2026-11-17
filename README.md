@@ -13,7 +13,7 @@ I build **8-bit computers around the W65C02S**: a modular computer on a backplan
 
 | Project | What it is |
 | :--- | :--- |
-| **[BO6502](https://github.com/Boogs77/BO6502_65C02-based_modular_computer)** | Modular 65C02 computer on a 39-pin backplane: CPU, RAM, ROM, video, serial, keyboard, SD card, audio, joystick and LCD boards |
+| **[BO6502](https://github.com/Boogs77/BO6502_65C02-based_modular_computer)** | Modular 65C02 computer on a 39-pin backplane: CPU, RAM, ROM, video, serial, keyboard, SD card, audio, joystick and LCD boards · 📖 [manual](https://github.com/Boogs77/BO6502-manual) |
 | **[miniPET](https://github.com/Boogs77/miniPET_65c02)** | Compact computer with a Big LCD display, inspired by the look of the Commodore PET, in a 3D-printed case |
 | **[miniVIC](https://github.com/Boogs77/miniVIC_65c02)** | Single-board arcade computer: TMS9918A video, 2x AY-3-8910 stereo, DIN5 keyboard, two joysticks, SD card |
 
@@ -26,6 +26,7 @@ I build **8-bit computers around the W65C02S**: a modular computer on a backplan
 | **[miniVIC Apps](https://github.com/Boogs77/miniVIC_apps)** | Office applications: text editor, spreadsheet, card file, monitor, assembler and more |
 | **[miniVIC Music](https://github.com/Boogs77/miniVIC_music)** | Songs for the two AY-3-8910 chips, as programs for the SD card |
 | **[miniVIC Manual](https://github.com/Boogs77/miniVIC-manual)** | Operation manual in English and Italian, in the style of the Apple-1 manual |
+| **[BO6502 Manual](https://github.com/Boogs77/BO6502-manual)** | Operation manual of the modular computer, board by board, in the same style |
 | **[BO6502 SD Builder](https://github.com/Boogs77/bo6502-SDbuilder)** | Python tools that build the SD card image with the games, applications and songs |
 | **[BO6502 · miniVIC Emulator](https://github.com/Boogs77/BO6502-miniVIC-emulator)** | Browser emulator that runs the real BIOS, the games and the applications |
 
