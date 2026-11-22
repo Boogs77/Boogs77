@@ -5,7 +5,7 @@ I build **8-bit computers around the W65C02S**: a modular computer on a backplan
 ### 🌐 [All the 65C02 projects on one page](https://boogs77.github.io/) · [Italiano](https://boogs77.github.io/it/)
 ### ▶️ [Play the miniVIC in your browser](https://boogs77.github.io/BO6502-miniVIC-emulator/) · 📖 [Read its manual](https://github.com/Boogs77/miniVIC-manual)
 
-<p align="center"><img src="https://boogs77.github.io/img/minivic_pcb.jpg" width="80%" /></p>
+<p align="center"><img src="https://boogs77.github.io/img/minivic_board.jpg" width="80%" /></p>
 
 ---
 
