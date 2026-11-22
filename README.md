@@ -30,6 +30,16 @@ I build **8-bit computers around the W65C02S**: a modular computer on a backplan
 | **[BO6502 SD Builder](https://github.com/Boogs77/bo6502-SDbuilder)** | Python tools that build the SD card image with the games, applications and songs |
 | **[BO6502 · miniVIC Emulator](https://github.com/Boogs77/BO6502-miniVIC-emulator)** | Browser emulator that runs the real BIOS, the games and the applications |
 
+## 🎬 Videos
+
+Five-minute explanatory videos, in Italian and English, with subtitles:
+
+* **The whole project: from the modular BO6502 to miniPET, miniVIC and Arcade6502**: [Italiano](https://youtu.be/3ln8cZt3MQk) · [English](https://youtu.be/d8nvmrTR-eE)
+* **The BO6502 modular computer, module by module**: [Italiano](https://youtu.be/6IAn-3Ajv5s) · [English](https://youtu.be/Px_E1aIrhP4)
+* **The miniVIC, the 65C02 arcade computer on a single board**: [Italiano](https://youtu.be/-JVyVr15J_0) · [English](https://youtu.be/Br0R03pKXYs)
+* **The miniPET, a 65C02 computer inspired by the Commodore PET**: [Italiano](https://youtu.be/zobRBSW0yw4) · [English](https://youtu.be/ZKR6lfdHAPM)
+* **The Arcade6502 cabinet: front-end, credits and catalog**: [Italiano](https://youtu.be/8jpY8511fZo)
+
 ## 🔧 Lab
 
 | Project | What it is |
