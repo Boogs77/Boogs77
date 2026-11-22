@@ -41,33 +41,6 @@ Five-minute explanatory videos, in Italian and English, with subtitles. Click a 
 <td align="center"><a href="https://youtu.be/d8nvmrTR-eE"><img src="https://img.youtube.com/vi/d8nvmrTR-eE/mqdefault.jpg" width="300" alt="The whole project: from the modular BO6502 to miniPET, miniVIC and Arcade6502 (English)"></a><br>English</td>
 </tr></table>
 
-**The BO6502 modular computer, module by module**
-
-<table><tr>
-<td align="center"><a href="https://youtu.be/6IAn-3Ajv5s"><img src="https://img.youtube.com/vi/6IAn-3Ajv5s/mqdefault.jpg" width="300" alt="The BO6502 modular computer, module by module (Italiano)"></a><br>Italiano</td>
-<td align="center"><a href="https://youtu.be/Px_E1aIrhP4"><img src="https://img.youtube.com/vi/Px_E1aIrhP4/mqdefault.jpg" width="300" alt="The BO6502 modular computer, module by module (English)"></a><br>English</td>
-</tr></table>
-
-**The miniVIC, the 65C02 arcade computer on a single board**
-
-<table><tr>
-<td align="center"><a href="https://youtu.be/-JVyVr15J_0"><img src="https://img.youtube.com/vi/-JVyVr15J_0/mqdefault.jpg" width="300" alt="The miniVIC, the 65C02 arcade computer on a single board (Italiano)"></a><br>Italiano</td>
-<td align="center"><a href="https://youtu.be/Br0R03pKXYs"><img src="https://img.youtube.com/vi/Br0R03pKXYs/mqdefault.jpg" width="300" alt="The miniVIC, the 65C02 arcade computer on a single board (English)"></a><br>English</td>
-</tr></table>
-
-**The miniPET, a 65C02 computer inspired by the Commodore PET**
-
-<table><tr>
-<td align="center"><a href="https://youtu.be/zobRBSW0yw4"><img src="https://img.youtube.com/vi/zobRBSW0yw4/mqdefault.jpg" width="300" alt="The miniPET, a 65C02 computer inspired by the Commodore PET (Italiano)"></a><br>Italiano</td>
-<td align="center"><a href="https://youtu.be/ZKR6lfdHAPM"><img src="https://img.youtube.com/vi/ZKR6lfdHAPM/mqdefault.jpg" width="300" alt="The miniPET, a 65C02 computer inspired by the Commodore PET (English)"></a><br>English</td>
-</tr></table>
-
-**The Arcade6502 cabinet: front-end, credits and catalog**
-
-<table><tr>
-<td align="center"><a href="https://youtu.be/8jpY8511fZo"><img src="https://img.youtube.com/vi/8jpY8511fZo/mqdefault.jpg" width="300" alt="The Arcade6502 cabinet: front-end, credits and catalog (Italiano)"></a><br>Italiano</td>
-</tr></table>
-
 ## 🔧 Lab
 
 | Project | What it is |
