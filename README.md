@@ -37,8 +37,8 @@ Five-minute explanatory videos, in Italian and English, with subtitles. Click a 
 **The whole project: from the modular BO6502 to miniPET, miniVIC and Arcade6502**
 
 <table><tr>
-<td align="center"><a href="https://youtu.be/nwPOYYJhzg0"><img src="https://img.youtube.com/vi/nwPOYYJhzg0/mqdefault.jpg" width="300" alt="The whole project: from the modular BO6502 to miniPET, miniVIC and Arcade6502 (Italiano)"></a><br>Italiano</td>
-<td align="center"><a href="https://youtu.be/60pIXy-RnlA"><img src="https://img.youtube.com/vi/60pIXy-RnlA/mqdefault.jpg" width="300" alt="The whole project: from the modular BO6502 to miniPET, miniVIC and Arcade6502 (English)"></a><br>English</td>
+<td align="center"><a href="https://youtu.be/_Hjr3x2rjTE"><img src="https://img.youtube.com/vi/_Hjr3x2rjTE/mqdefault.jpg" width="300" alt="The whole project: from the modular BO6502 to miniPET, miniVIC and Arcade6502 (Italiano)"></a><br>Italiano</td>
+<td align="center"><a href="https://youtu.be/LweN9A5SnNI"><img src="https://img.youtube.com/vi/LweN9A5SnNI/mqdefault.jpg" width="300" alt="The whole project: from the modular BO6502 to miniPET, miniVIC and Arcade6502 (English)"></a><br>English</td>
 </tr></table>
 
 ## 🔧 Lab
