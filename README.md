@@ -1,8 +1,9 @@
 # Hi, I'm Boogs77 👋
 
-I build **8-bit computers around the W65C02S**: a modular computer on a backplane, two complete machines made from its boards, and the BIOS, games, applications and emulator that run on them.
+I build **8-bit computers around the W65C02S**: a modular computer on a backplane, three paths that grew from its boards (miniPET, miniVIC and the Arcade6502 cabinet board), and the BIOS, games, applications and emulator that run on them.
 
 ### 🌐 [All the 65C02 projects on one page](https://boogs77.github.io/) · [Italiano](https://boogs77.github.io/it/)
+### 🛠️ The whole story: [Hackaday.io](https://hackaday.io/project/207465) · [Instructables](https://www.instructables.com/Build-a-Modular-65C02-Computer-BO6502-and-Turn-It-/)
 ### ▶️ [Play the miniVIC in your browser](https://boogs77.github.io/BO6502-miniVIC-emulator/) · 📖 [Read its manual](https://github.com/Boogs77/miniVIC-manual)
 
 <p align="center"><img src="https://boogs77.github.io/img/minivic_board.jpg" width="80%" /></p>
@@ -16,6 +17,7 @@ I build **8-bit computers around the W65C02S**: a modular computer on a backplan
 | **[BO6502](https://github.com/Boogs77/BO6502_65C02-based_modular_computer)** | Modular 65C02 computer on a 39-pin backplane: CPU, RAM, ROM, video, serial, keyboard, SD card, audio, joystick and LCD boards · 📖 [manual](https://github.com/Boogs77/BO6502-manual) |
 | **[miniPET](https://github.com/Boogs77/miniPET_65c02)** | Compact computer with a Big LCD display, inspired by the look of the Commodore PET, in a 3D-printed case |
 | **[miniVIC](https://github.com/Boogs77/miniVIC_65c02)** | Single-board arcade computer: TMS9918A video, 2x AY-3-8910 stereo, DIN5 keyboard, two joysticks, SD card |
+| **[Arcade6502](https://github.com/Boogs77/arcade_bios)** | Cabinet board: the miniVIC without the keyboard, JAMMA interface, coins and a game front-end ([games](https://github.com/Boogs77/arcade_games)) |
 
 ## 💾 Software for the miniVIC
 
